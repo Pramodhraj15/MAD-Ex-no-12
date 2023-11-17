@@ -108,8 +108,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image](https://github.com/Siddarthan999/MAD-LAB-12-Design-an-Application-that-Draws-Basic-Graphical-Primitives-on-the-Screen/assets/91734840/c4e63200-3dd8-4cd3-a25b-b55f8f3da5f5)
-![image](https://github.com/Siddarthan999/MAD-LAB-12-Design-an-Application-that-Draws-Basic-Graphical-Primitives-on-the-Screen/assets/91734840/23446676-6e44-4d0d-ada4-c01d57ae90e7)
+[image](https://github.com/rahulramakrishnann/EXPERIMENT-12-mad/assets/143045415/5f0b2c89-cb1d-4b40-9094-914e9159c505)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-12-mad/assets/143045415/4b389266-9e78-454e-b15a-6f326efea31c)
 
 ## RESULT
 Thus, a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
